@@ -27,5 +27,6 @@ public class Tela{
                 "\nMédia das compras R$ " + calculo.calcularMedia();
         String titulo = "Informações";
         JOptionPane.showMessageDialog(null, mensagem, titulo, 1);   
+        
     }
 }
